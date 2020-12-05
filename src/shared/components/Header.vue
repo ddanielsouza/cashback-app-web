@@ -1,5 +1,5 @@
 <template>
-   <div class="header" v-if="$auth.ready()">
+   <div class="header">
       <div class="top-header">
          <span> <slot></slot> </span>
          <div>
