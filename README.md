@@ -1,4 +1,4 @@
-# ui
+# cashback-app-web
 
 ## Project setup
 ```
